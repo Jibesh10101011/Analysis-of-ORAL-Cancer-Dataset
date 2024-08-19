@@ -1,6 +1,6 @@
 # 📚 Oral Cancer Classification Using Hybrid Attention Mechanisms
 
-![Oral Cancer Classification](your-image-url-here)
+![Oral Cancer Classification]([your-image-url-here](https://s3.eu-north-1.amazonaws.com/jibeshroy.static.dev/ORAL-CANCER/DISTRIBUTION.drawio.png))
 
 ## 🌟 Project Overview
 
