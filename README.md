@@ -42,7 +42,7 @@ The Hybrid Attention Mechanism incorporates:
 | **Macroscopic Classification** | 95%      | 94%       | 96%    | 95%      |
 | **Microscopic Classification** | 93%      | 92%       | 94%    | 93%      |
 
-![Confusion Matrix](your-confusion-matrix-image-url-here)
+![Confusion Matrix](https://s3.eu-north-1.amazonaws.com/jibeshroy.static.dev/ORAL-CANCER/confusion_matrix.drawio.png)
 
 ## 🛠️ Installation
 
