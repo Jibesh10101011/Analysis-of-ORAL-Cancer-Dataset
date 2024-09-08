@@ -6,7 +6,7 @@ This project presents a deep learning model for classifying oral cancer, leverag
 2. **Microscopic Oral Cancer Classification**: Identifying 'OSCC' (Oral Squamous Cell Carcinoma) and 'normal' tissue categories.
    
 ## 🌟 Overall workflow:
-![Base Model with Hybrid Attention ](https://s3://jibeshroy.static.dev/ORAL-CANCER/Proposed_model.png)
+![Base Model with Hybrid Attention ](https://s3.eu-north-1.amazonaws.com/jibeshroy.static.dev/ORAL-CANCER/Proposed_model.png)
 
 ## 🚀 Features
 
