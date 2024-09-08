@@ -1,5 +1,4 @@
-# 📚 Oral Cancer Classification Using Hybrid Attention Mechanisms
-
+# 📚Oral Cancer Classification using a Hybrid Attention-aided Deep Learning Model
 ![Oral Cancer Classification](https://s3.eu-north-1.amazonaws.com/jibeshroy.static.dev/ORAL-CANCER/DISTRIBUTION.drawio.png)
 
 ## 🌟 Project Overview
