@@ -1,14 +1,14 @@
-# 📚 Oral Cancer Classification Using Hybrid Attention Mechanisms
-
-![Oral Cancer Classification](https://s3.eu-north-1.amazonaws.com/jibeshroy.static.dev/ORAL-CANCER/DISTRIBUTION.drawio.png)
-
-## 🌟 Project Overview
+# 📚 Oral Cancer Classification using a Hybrid Attention-aided Deep Learning Model
 
 This project presents a deep learning model for classifying oral cancer, leveraging a Hybrid Attention Mechanism combining **self-attention, soft attention, and spatial attention**. The model uses **EfficientNetB0** as the base architecture and addresses two key classification tasks:
 
 1. **Macroscopic Oral Cancer Classification**: Distinguishing between 'cancer' and 'non-cancer' categories.
 2. **Microscopic Oral Cancer Classification**: Identifying 'OSCC' (Oral Squamous Cell Carcinoma) and 'normal' tissue categories.
 
+## 🌟 Overall workflow : 
+![Base Model with Hybrid Attention ](https://s3.eu-north-1.amazonaws.com/jibeshroy.static.dev/ORAL-CANCER/Proposed_model.png)
+
+  
 ## 🚀 Features
 
 - **Hybrid Attention Mechanism**: Integrates multiple attention types to enhance feature extraction and improve classification accuracy.
