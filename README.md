@@ -54,11 +54,3 @@ The Hybrid Attention Mechanism incorporates:
 
 ![Confusion Matrix](https://s3.eu-north-1.amazonaws.com/jibeshroy.static.dev/ORAL-CANCER/confusion_matrix.drawio.png)
 
-## 🛠️ Installation
-
-Clone this repository and install the required dependencies:
-
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-pip install -r requirements.txt
