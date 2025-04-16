@@ -1,6 +1,7 @@
 # 📚Oral Cancer Classification using a Hybrid Attention-aided Deep Learning Model
 
 ## This research work has been accepted and presented at [MICAD 2024](https://www.micad.org/)
+### 📄 Now published in Springer: [Access the chapter here](https://link.springer.com/chapter/10.1007/978-981-96-3863-5_1)
 
 This project presents a deep learning model for classifying oral cancer, leveraging a Hybrid Attention Mechanism combining **self-attention, soft attention, and spatial attention**. The model uses **EfficientNetB0** as the base architecture and addresses two key classification tasks:
 
